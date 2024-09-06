@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
