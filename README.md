@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -54,8 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
