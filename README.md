@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
