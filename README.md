@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
