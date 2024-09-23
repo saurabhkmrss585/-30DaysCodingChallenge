@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
