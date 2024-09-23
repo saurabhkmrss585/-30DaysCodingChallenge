@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 <!---LeetCode Topics End-->
