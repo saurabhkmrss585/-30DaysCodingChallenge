@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 <!---LeetCode Topics End-->
