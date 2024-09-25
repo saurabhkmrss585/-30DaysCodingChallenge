@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0647-palindromic-substrings) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
