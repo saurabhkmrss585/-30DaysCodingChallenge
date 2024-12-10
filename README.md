@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
