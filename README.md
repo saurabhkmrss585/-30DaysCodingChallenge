@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0001-two-sum) |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 ## String Matching
