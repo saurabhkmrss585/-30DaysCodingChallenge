@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1013-fibonacci-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
