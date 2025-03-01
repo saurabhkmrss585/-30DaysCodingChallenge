@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0268-missing-number) |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2406-decode-the-message) |
 ## String Matching
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
