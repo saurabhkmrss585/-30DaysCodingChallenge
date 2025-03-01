@@ -20,7 +20,7 @@ public:
      int index=0;
      while(index<s.size()&& max_frequency>0){
         s[index]=max_char;
-       index= index+2;
+      index+=2;
         max_frequency--;
      }
 
