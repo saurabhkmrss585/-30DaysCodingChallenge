@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0739-daily-temperatures) |
 | [0926-find-and-replace-pattern](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0926-find-and-replace-pattern) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
