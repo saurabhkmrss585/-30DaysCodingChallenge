@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0680-valid-palindrome-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/saurabhkmrss585/-30DaysCodingChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
